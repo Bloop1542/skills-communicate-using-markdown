@@ -13,3 +13,7 @@ This is my progress in learning how to user markdown
 ``` java
 System.out.print = "Hello, world!";
 ```
+
+## Task List
+- [ ] Complete Markdown course 
+- [ ] Complete Pull Request Course
